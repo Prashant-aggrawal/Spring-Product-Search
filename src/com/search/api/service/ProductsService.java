@@ -11,6 +11,13 @@ import org.springframework.stereotype.Service;
 import com.search.api.dao.Product;
 import com.search.api.dao.ProductsDAO;
 
+/**
+ * 
+ * @author arefe
+ *
+ * @version 1.0/2015-12-18
+ */
+ 
 @Service("productsService")
 public class ProductsService {
 
