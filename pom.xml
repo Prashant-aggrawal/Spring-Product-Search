@@ -47,7 +47,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.2.3.RELEASE</version>
+			<version>5.3.17</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -57,7 +57,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
-			<version>4.2.3.RELEASE</version>
+			<version>5.3.17</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
@@ -98,12 +98,12 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-core</artifactId>
-			<version>3.1.4.RELEASE</version>
+			<version>4.0.1.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-web</artifactId>
-			<version>3.1.4.RELEASE</version>
+			<version>4.0.1.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
@@ -113,7 +113,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
-			<version>3.1.4.RELEASE</version>
+			<version>4.0.1.RELEASE</version>
 		</dependency>
 		
 		<dependency>
